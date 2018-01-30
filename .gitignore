@@ -16,3 +16,6 @@ package-lock.json
 # Output of documentation
 _book
 
+# Device build default outputs
+image.tar
+image.img
