@@ -17,5 +17,5 @@ package-lock.json
 _book
 
 # Device build default outputs
-image.tar
-image.img
+eliot-os.tar
+*.img
